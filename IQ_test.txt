@@ -1,0 +1,5 @@
+Question1 : [Answer 2] becaues i see it be a symmetrical pattern
+Question2 : [Answer 2] because i thing  the pattern is a scale up from left to right.
+Question3 : [Answer 3] because i see picture in column 3 are formed from images in column 1 and 2 are overlap each other. 
+Question4 : [Answer 4] because i look for each elememt, square position will be on the line of other square so in last box square must be on left bottom so it will still in 2 choice 2 or 4 so i look color pattern it be a black-white-black. circle seem like square and line element have own pattern in vertical box it will be on center and in horizontal box it be a stair step pattern
+Question5 : [Answer 3] because look box in each line will found square are in the same line and circle all the same in each line so in the last box square and circle must be in top-right.
